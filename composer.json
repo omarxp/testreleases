@@ -1,4 +1,5 @@
 {
     "name": "omarxp/testreleases",
-    "description": "test for package release"
+    "description": "test for package release",
+    "license": "MIT"
 }
